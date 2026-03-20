@@ -1,0 +1,6 @@
+# Clase-markdown-3
+Github: Akmacenar, gestionar y compartir código: Funciona como red social para colaborar entre usuarios. 
+Markdown: Forma de escribir texto con formato. Se usa caracteres comunes para darle un formato. 
+° Saltar dos parrafos; Enter dos veces
+
+Parrafo 1
