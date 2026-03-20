@@ -4,3 +4,5 @@ Markdown: Forma de escribir texto con formato. Se usa caracteres comunes para da
 ° Saltar dos parrafos; Enter dos veces
 
 Parrafo 1
+
+Texto baje a la siguiente linea; Dos espacios en blanco al final de la linea y enter  
