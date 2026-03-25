@@ -64,3 +64,7 @@ __Tablas__
 | R&B | The Weeknd | Starboy | 2016 |
 | Electrónica | Avicii | Stories | 2015 |
 | Trap Latino | Bad Bunny | X100PRE | 2018 |
+
+Usar | Al inicio y final de cada frase para formar una columna, además de una espacio entre | y frase. Para diferenciar los títulos de las filas inferiores se usa :--- para la primera columna, :---: para las del medio y ---: para la última. 
+
+
