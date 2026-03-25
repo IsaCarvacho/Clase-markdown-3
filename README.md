@@ -54,4 +54,4 @@ __Ejercicios__
 [![Cultura](https://hips.hearstapps.com/hmg-prod/images/highresrollsafe-1636459657.jpeg?crop=0.564xw:1.00xh;0,0&resize=640:*)](https://youtu.be/QfYmIIRRapQ?si=Tmq_4IpEfQNfoZC-)
 
 __Bloques de código__  
-```tapa roja("Botella Plástica")```
+```tapa roja("Botella Plástica")``` Es ``` frase en minuscula("Frase") ```
