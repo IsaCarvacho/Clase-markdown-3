@@ -67,4 +67,13 @@ __Tablas__
 
 Usar | Al inicio y final de cada frase para formar una columna, además de una espacio entre | y frase. Para diferenciar los títulos de las filas inferiores se usa :--- para la primera columna, :---: para las del medio y ---: para la última. 
 
+__Emojis y menciones__
+
+Para escribir un emoji se usa :y el nombre del emoji, o sólo se pega
+
+🌲, 🐚, 🍤, 🪻, 💜.
+
+Para las menciones se usa el @ y el usuario para notificar a alguien.
+
+@camilasepulvedab
 
