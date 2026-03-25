@@ -3,7 +3,7 @@ Github: Almacenar, gestionar y compartir código: Funciona como red social para 
 Markdown: Forma de escribir texto con formato. Se usa caracteres comunes para darle un formato. 
 ° Saltar dos parrafos; Enter dos veces
 
-Parrafo 1
+Prueba
 
 Texto baje a la siguiente linea; Dos espacios en blanco al final de la linea y enter  
 Forzar salto; <br>
@@ -54,4 +54,13 @@ __Ejercicios__
 [![Cultura](https://hips.hearstapps.com/hmg-prod/images/highresrollsafe-1636459657.jpeg?crop=0.564xw:1.00xh;0,0&resize=640:*)](https://youtu.be/QfYmIIRRapQ?si=Tmq_4IpEfQNfoZC-)
 
 __Bloques de código__  
-```tapa roja("Botella Plástica")``` Es ``` frase en minuscula("Frase") ```
+```tapa roja("Botella Plástica")``` Es ``` frase en minuscula("Frase") ``` con ``` al principio y al final 
+
+__Tablas__
+
+| Género | Artista | Álbum | Año
+| :--- | :---: | :---: | ---: |
+| Rap | Makiza | Aerolineas Makiza | 1999 |
+| R&B | The Weeknd | Starboy | 2016 |
+| Electrónica | Avicii | Stories | 2015 |
+| Trap Latino | Bad Bunny | X100PRE | 2018 |
