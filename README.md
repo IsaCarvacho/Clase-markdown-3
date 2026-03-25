@@ -1,5 +1,5 @@
 # Clase-markdown-3
-Github: Akmacenar, gestionar y compartir código: Funciona como red social para colaborar entre usuarios. 
+Github: Almacenar, gestionar y compartir código: Funciona como red social para colaborar entre usuarios. 
 Markdown: Forma de escribir texto con formato. Se usa caracteres comunes para darle un formato. 
 ° Saltar dos parrafos; Enter dos veces
 
@@ -21,22 +21,29 @@ _Cursiva_ Un guión bajo al inicio y final o asterisco
 
 ***Negritaycursiva*** Tres asteriscos al inicio y final
 
-Tachado pendiente
+~~Tachado~~ Dos ~~ al principio y al final
 
 __Para listas__
 
+***Viñetas***
 * Elemento A
 * Elemento B
     * Sub elementoC1
 
+***Números***
 1. Elemento A
     1. Sub elemento C1
+
+***Checkbox***  
+-[ ] Elemento X  
+-[x] Elemento Y  
+-[ ] Elemento Z
   
-Links: [PapasDoradas](https://papasdoradascorp.com)
+Links: [PapasDoradas](https://papasdoradascorp.com) Es: [Nombre de la web] (https://url.com)
 
-Imagen: ![Cachorritos](https://cachorritos.imagen.jpg)
+Imagen: ![Cachorritos](https://cachorritos.imagen.jpg) Es: ![Texto alternativo] (https://url-de-la-imagen.jpg)
 
-Imagen con link: [![CespedVerde](https://cesped.origen.com)](https://cesped.destino)
+Imagen con link: [![CespedVerde](https://cesped.origen.com)](https://cesped.destino) Es: [![Texto alternativo] (url-imagen)](url-destino)
 
 __Ejercicios__
 
