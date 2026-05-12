@@ -1,20 +1,26 @@
-# Clase-markdown-3
-Github: Almacenar, gestionar y compartir código: Funciona como red social para colaborar entre usuarios. 
-Markdown: Forma de escribir texto con formato. Se usa caracteres comunes para darle un formato. 
-° Saltar dos parrafos; Enter dos veces
+# Sesión 03 - 27/03  
 
-Prueba
+## Markdown  
+Markdown es un lenguaje de marcado ligero. Es una manera de escribir un texto con un formato, usando caracteres comunes del teclado.  
 
-Texto baje a la siguiente linea; Dos espacios en blanco al final de la linea y enter  
-Forzar salto; <br>
-Agregar linea horizontal es ___ y enter
-___
-# Título nivel 1
-## Título nivel 2 (Encabezados) Dos hashtag inicio
-### Título nivel 3. Tres hashatag inicio
-#### Título nivel 4. 4 " "
-##### Título nivel 5. 5 " "
-###### Título nivel 6. 6 " "
+### Tipos de Markdown  
+__Saltos de línea:__
+1. Para separar dos parrafos se __presiona Enter dos veces__.
+2. Para hacer que un texto baje una línea sin dejar un espacio en blanco, se debe poner __dos espacios en blanco (espacio) al final de la frase y luego Enter__
+3. Forzar el salto es con <br> 
+* Sangría con TAB o 4 espacios.
+* --- Para separar secciones con una línea.
+
+__Encabezados:__  
+Para los encabezados se usan los #, dejando un espacio entre hashtag y encabezado. Para el título más grande se usa un hashtag al pricipio, espacio y luego la palabra. Se van sumando hashtags para hacer que el encabezado reduzca su tamaño.  
+# Título Nivel 1
+## Título Nivel 2
+### Título Nivel 3
+#### Título Nivel 4
+##### Título Nivel 5
+###### Título Nivel 6  
+
+__Formatos de texto:__  
 __Negrita__ Dos astericos al inicio y final o asteriscos
 
 _Cursiva_ Un guión bajo al inicio y final o asterisco 
@@ -29,15 +35,19 @@ __Para listas__
 * Elemento A
 * Elemento B
     * Sub elementoC1
+--> Se pone un *, espacio y luego el elemento a escribir. Dos espacios y enter para que se introduzca el siguiente elemento automáticamente. 
 
 ***Números***
 1. Elemento A
+2. Elemento B
     1. Sub elemento C1
+--> Se pone un número, seguido de un punto, espacio y luego el elemento a escribir. Dos espacios y enter para que se introduzca el siguiente elemento automáticamente. 
 
 ***Checkbox***  
 -[ ] Elemento X  
 -[x] Elemento Y  
 -[ ] Elemento Z
+--> Se pone un [ seguido de un espacio o una x según corresponda,seguido de el ] para cerrar, espacio y luego el elemento a escribir.
   
 Links: [PapasDoradas](https://papasdoradascorp.com) Es: [Nombre de la web] (https://url.com)
 
@@ -65,7 +75,7 @@ __Tablas__
 | Electrónica | Avicii | Stories | 2015 |
 | Trap Latino | Bad Bunny | X100PRE | 2018 |
 
-Usar | Al inicio y final de cada frase para formar una columna, además de una espacio entre | y frase. Para diferenciar los títulos de las filas inferiores se usa :--- para la primera columna, :---: para las del medio y ---: para la última. 
+Usar | Al inicio y final de cada frase para formar una columna, además de una espacio entre | y frase. Para diferenciar los títulos de las filas inferiores se usa :--- para la primera col mna, :---: para las del medio y ---: para la última. 
 
 __Emojis y menciones__
 
@@ -76,4 +86,3 @@ Para escribir un emoji se usa :y el nombre del emoji, o sólo se pega
 Para las menciones se usa el @ y el usuario para notificar a alguien.
 
 @camilasepulvedab
-
